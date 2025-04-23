@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">數值控制小工具</string>
+    <string name="plus_one">➕</string>
+    <string name="minus_one">➖</string>
+    <string name="reset">🔄</string>
+</resources>
